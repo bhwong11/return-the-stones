@@ -4,7 +4,7 @@ import { createWebHistory, createRouter } from 'vue-router'
 
 const routes = [
   { path: '/', component: () => Home },
-  { path: '/about', component: () => SignOn },
+  { path: '/sign-on', component: () => SignOn },
 ]
 
 export const router = createRouter({

@@ -92,7 +92,7 @@
 .main-article {
   display: flex;
   flex-direction: column;
-  padding: 0 2rem;
+  padding: 0 4rem;
 }
 .italic-text {
   font-style: italic;

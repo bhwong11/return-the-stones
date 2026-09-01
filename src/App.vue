@@ -1,10 +1,10 @@
 <template>
   <div class="main-page">
-    <nav>
-      <img href="/logo.png"/>
+    <nav class="nav-bar">
+      <img src="./assets/logo.png" alt="Heritage Without Erasure" width="150"/>
       <ul class="nav-buttons">
         <li><RouterLink to="/">Go to Open Letter</RouterLink></li>
-        <li><RouterLink to="/about">Go to Sign On</RouterLink></li>
+        <li><RouterLink to="/sign-on">Go to Sign On</RouterLink></li>
       </ul>
     </nav>
     <main>
@@ -24,11 +24,16 @@ import { RouterView, RouterLink } from 'vue-router';
   justify-content: center;
   align-items: center;
 }
-.nav-buttons {
+.nav-bar {
   display: flex;
-  gap: 0.5rem;
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
+  width: 100%;
+  justify-content: space-between;
+  .nav-buttons {
+    display: flex;
+    gap: 0.5rem;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
 }
 </style>
