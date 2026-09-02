@@ -3,8 +3,16 @@
     <nav class="nav-bar">
       <img src="./assets/logo.png" alt="Heritage Without Erasure" width="150"/>
       <ul class="nav-buttons">
-        <li><RouterLink to="/">Go to Open Letter</RouterLink></li>
-        <li><RouterLink to="/sign-on">Go to Sign On</RouterLink></li>
+        <li>
+          <RouterLink to="/" v-if="currentPath !== '/'">
+            <button class="bg-black hover:bg-gray-800 text-white font-medium py-2.5 px-5 rounded-lg transition-colors duration-200">Go to Open Letter</button>
+          </RouterLink>
+        </li>
+        <li>
+          <RouterLink to="/sign-on" v-if="currentPath !== '/sign-on'">
+            <button class="bg-black hover:bg-gray-800 text-white font-medium py-2.5 px-5 rounded-lg transition-colors duration-200">Go to Sign On</button>
+          </RouterLink>
+        </li>
       </ul>
     </nav>
     <main>
@@ -14,7 +22,12 @@
 </template>
 
 <script setup lang="ts">
+import { computed } from 'vue';
 import { RouterView, RouterLink } from 'vue-router';
+import { useRoute } from 'vue-router'
+const route = useRoute()
+
+const currentPath = computed(() => route.path);
 </script>
 
 <style scoped>
@@ -28,6 +41,7 @@ import { RouterView, RouterLink } from 'vue-router';
   display: flex;
   width: 100%;
   justify-content: space-between;
+  padding: 1rem;
   .nav-buttons {
     display: flex;
     gap: 0.5rem;
