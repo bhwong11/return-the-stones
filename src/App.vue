@@ -4,7 +4,7 @@
       <img src="./assets/logo.png" alt="Heritage Without Erasure" width="150"/>
       <ul class="nav-buttons">
         <li>
-          <RouterLink to="/return-the-stones" v-if="currentPath !== '/return-the-stones'">
+          <RouterLink to="/return-the-stones/" v-if="currentPath !== '/return-the-stones/'">
             <button class="bg-black hover:bg-gray-800 text-white font-medium py-2.5 px-5 rounded-lg transition-colors duration-200">Go to Open Letter</button>
           </RouterLink>
         </li>
