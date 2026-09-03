@@ -76,8 +76,11 @@
   <div class="flex flex-row justify-center pt-[2rem] pb-[3rem]">
     <a 
       class="text-blue-600 hover:underline font-medium"
-      href="https://docs.google.com/forms/d/e/1FAIpQLSe34h1Wm-8ntkyng5zn5h6tGqa1ol3xqMBL-GtKqv4Ypv3PSg/viewform?usp=sharing&ouid=111430167125586998476">
-      Sign On Here
+      href="https://docs.google.com/forms/d/e/1FAIpQLSe34h1Wm-8ntkyng5zn5h6tGqa1ol3xqMBL-GtKqv4Ypv3PSg/viewform?usp=sharing&ouid=111430167125586998476"
+    > 
+      <button class="bg-black hover:bg-gray-800 text-white font-medium py-2.5 px-5 rounded-lg transition-colors duration-200">
+        Sign On Here
+      </button>
     </a>
   </div>
 </template>
