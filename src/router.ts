@@ -1,6 +1,6 @@
 import Home from '@/components/Home.vue'
 import SignOn from '@/components/SignOn.vue'
-import { createWebHistory, createRouter } from 'vue-router'
+import { createWebHashHistory, createRouter } from 'vue-router'
 
 const routes = [
   { path: '/', component: () => Home },
@@ -8,6 +8,6 @@ const routes = [
 ]
 
 export const router = createRouter({
-  history: createWebHistory(),
+  history: createWebHashHistory(),
   routes,
 })
