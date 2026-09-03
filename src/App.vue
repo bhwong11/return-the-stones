@@ -4,12 +4,12 @@
       <img src="./assets/logo.png" alt="Heritage Without Erasure" width="150"/>
       <ul class="nav-buttons">
         <li>
-          <RouterLink to="/" v-if="currentPath !== '/'">
+          <RouterLink to="/return-the-stones" v-if="currentPath !== '/return-the-stones'">
             <button class="bg-black hover:bg-gray-800 text-white font-medium py-2.5 px-5 rounded-lg transition-colors duration-200">Go to Open Letter</button>
           </RouterLink>
         </li>
         <li>
-          <RouterLink to="/sign-on" v-if="currentPath !== '/sign-on'">
+          <RouterLink to="/return-the-stones/sign-on" v-if="currentPath !== '/return-the-stones/sign-on'">
             <button class="bg-black hover:bg-gray-800 text-white font-medium py-2.5 px-5 rounded-lg transition-colors duration-200">Go to Sign On</button>
           </RouterLink>
         </li>
