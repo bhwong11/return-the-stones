@@ -9,7 +9,7 @@
           </RouterLink>
         </li>
         <li>
-          <RouterLink to="/return-the-stones/sign-on" v-if="currentPath !== '/return-the-stones/sign-on'">
+          <RouterLink to="/return-the-stones/sign-on/" v-if="currentPath !== '/return-the-stones/sign-on/'">
             <button class="bg-black hover:bg-gray-800 text-white font-medium py-2.5 px-5 rounded-lg transition-colors duration-200">Go to Sign On</button>
           </RouterLink>
         </li>
