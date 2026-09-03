@@ -73,6 +73,13 @@
       <li>Ensure that future exhibitions concerning the Holy Land present the histories and voices of all communities connected to that heritage, including Palestinian Christians whose presence represents one of the oldest continuous Christian traditions in the world.</li>
     </ul>
   </article>
+  <div class="flex flex-row justify-center pt-[2rem] pb-[3rem]">
+    <a 
+      class="text-blue-600 hover:underline font-medium"
+      href="https://docs.google.com/forms/d/e/1FAIpQLSe34h1Wm-8ntkyng5zn5h6tGqa1ol3xqMBL-GtKqv4Ypv3PSg/viewform?usp=sharing&ouid=111430167125586998476">
+      Sign On Here
+    </a>
+  </div>
 </template>
 
 <script setup lang="ts"></script>
