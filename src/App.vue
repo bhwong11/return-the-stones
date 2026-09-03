@@ -9,7 +9,7 @@
           </RouterLink>
         </li>
         <li>
-          <RouterLink to="/sign-on/" v-if="currentPath !== '/sign-on/'">
+          <RouterLink to="/sign-on/" v-if="currentPath.replace(/\/+$/, '') !== '/sign-on'">
             <button class="bg-black hover:bg-gray-800 text-white font-medium py-2.5 px-5 rounded-lg transition-colors duration-200">Go to Sign On</button>
           </RouterLink>
         </li>
