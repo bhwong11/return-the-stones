@@ -9,7 +9,8 @@
     "preview": "vite preview",
     "build-only": "vite build",
     "type-check": "vue-tsc --build",
-    "deploy": "sh ./deploy.sh"
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.3.3",
@@ -23,6 +24,7 @@
     "@vitejs/plugin-vue": "^6.0.8",
     "@vue/tsconfig": "^0.9.1",
     "autoprefixer": "^10.5.4",
+    "gh-pages": "^6.3.0",
     "npm-run-all2": "^9.0.2",
     "postcss": "^8.5.26",
     "sass": "^1.103.1",
