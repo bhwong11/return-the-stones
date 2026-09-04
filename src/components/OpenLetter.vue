@@ -1,5 +1,5 @@
 <template>
-    <article class="main-article text-center min-[375px]:text-left">
+    <article class="main-article text-center min-[23.75rem]:text-left">
     <header class="header italic-text">
       <h2>
         HERITAGE WITHOUT ERASURE
@@ -22,31 +22,31 @@
     </p>
     <br />
     <p>
-      Instead of addressing these issues with integrity, the Museum partners with the Israel Antiquities Authority (IAA), which supplies the Museum with artifacts the IAA has gained through expelling Palestinians and occupying their land. 
+      Instead of addressing these issues with integrity, the Museum partners with the Israel Antiquities Authority (IAA), which supplies the Museum with artifacts the IAA has gained through <a class="text-blue-600 underline hover:text-blue-800 hover:no-underline" href="https://www.972mag.com/israel-archaeology-annexation-rafi-greenberg/">expelling Palestinians and occupying their land.</a> 
     </p>
     <br />
     <p>
-      For this reason, we call upon the Museum of the Bible to end its partnership with the IAA which operates to erase the memory of long-established Palestinian presence in the land. The IAA repeatedly declares areas “antiquity sites” and works with the military to expel Palestinians living there. With Palestinians expelled, Israeli settlers and the state take the land, erasing Palestinian history and life from that area. Museum exhibits gained through the expulsion of communities are unjust, especially for a Museum that claims to be faithful to scripture. 
+      For this reason, we call upon the Museum of the Bible to end its partnership with the IAA which operates to <a class="text-blue-600 underline hover:text-blue-800 hover:no-underline" href="https://zenit.org/2026/08/19/israel-turns-archaeology-into-a-tool-for-annexation-how-it-seized-the-site-linked-to-the-tomb-of-john-the-baptist/">erase the memory</a> of long-established Palestinian presence in the land. The IAA repeatedly declares areas “antiquity sites” and works with the military to expel Palestinians living there. With Palestinians expelled, Israeli settlers and the state take the land, erasing Palestinian history and life from that area. Museum exhibits gained through the expulsion of communities are unjust, especially for a Museum that claims to be faithful to scripture. 
     </p>
     <br />
     <p>
-      The Megiddo Mosaic displayed at the Museum illustrates this pattern of dispossession and acquisition. It comes from one of the earliest known Christian spaces, dating to approximately 230 CE. It is well preserved with an inscription dedicating that space "to the God Jesus Christ." This mosaic is an extraordinary testimony to the earliest generations of the Christian faith.
+      <a class="text-blue-600 underline hover:text-blue-800 hover:no-underline" href="https://en.wikipedia.org/wiki/Megiddo_church_(Israel)">The Megiddo Mosaic</a> displayed at the Museum illustrates this pattern of dispossession and acquisition. It comes from one of the earliest known Christian spaces, dating to approximately 230 CE. It is well preserved with an inscription dedicating that space "to the God Jesus Christ." This mosaic is an extraordinary testimony to the earliest generations of the Christian faith.
     </p>
     <br />
     <p>
-      But there is more to the story of how this Mosaic came to be discovered and how it has ended up at the Museum of the Bible. The Mosaic was discovered at the site of ancient Legio, in what was once the village of Lajjun near Megiddo. In 1948, the Israeli Golani Brigade occupied the village of Lajjun and displaced much of the Palestinian community that had lived there for generations. Megiddo Prison was established at the site and, by the late 1980s, Israel used it to incarcerate Palestinians, many of whom were held in ‘administrative detention’ without trial.
+      But there is more to the story of how this Mosaic came to be discovered and how it has ended up at the Museum of the Bible. The Mosaic was discovered at the site of ancient Legio, in what was once the village of <a class="text-blue-600 underline hover:text-blue-800 hover:no-underline" href="https://en.wikipedia.org/wiki/Lajjun">Lajjun</a> near Megiddo. In 1948, the Israeli <a href="https://en.wikipedia.org/wiki/Golani_Brigade">Golani Brigade</a> occupied the village of Lajjun and displaced much of the Palestinian community that had lived there for generations. <a class="text-blue-600 underline hover:text-blue-800 hover:no-underline" href="https://en.wikipedia.org/wiki/Megiddo_prison">Megiddo Prison</a> was established at the site and, by the late 1980s, Israel used it to incarcerate Palestinians, many of whom were held in ‘administrative detention’ without trial.
     </p>
     <br />
     <p>
-      In 2005, Israel set out to enlarge the Megiddo Prison and found the Mosaic in the process. Through its partnership with the IAA, the Museum of the Bible received it in 2024. The Museum now has the Mosaic, removed from its original context, while the prison above it remains in operation as a site with documented abuse drawing widespread international condemnation for torture, deaths in custody, and other human rights abuses.
+      In 2005, Israel set out to enlarge the Megiddo Prison and found the Mosaic in the process. Through its partnership with the IAA, the Museum of the Bible received it in 2024. The Museum now has the Mosaic, removed from its original context, while the prison above it remains in operation as a site with documented abuse drawing widespread international condemnation for <a class="text-blue-600 underline hover:text-blue-800 hover:no-underline" href="https://bbc.com/news/articles/cx2yylgze4ro">torture</a>, <a class="text-blue-600 underline hover:text-blue-800 hover:no-underline" href="https://wapo.st/3SirEN2">deaths in custody</a>, and <a class="text-blue-600 underline hover:text-blue-800 hover:no-underline" href="https://www.theguardian.com/world/article/2024/may/18/israeli-abuse-of-jailed-palestinian-leader-marwan-barghouti-amounts-to-torture">other human rights abuses.</a>
     </p>
     <br />
     <p>
-      The Museum of the Bible must ask whether displaying the Megiddo Mosaic while separating it from its land, history, and heritage truly honors its Christian heritage. The Museum must also decide if it will continue to partner with the IAA, which uses antiquities as a way of seizing land from Palestinians, including Palestinian Christians.
+      The Museum of the Bible must ask whether displaying the Megiddo Mosaic while separating it from its land, history, and heritage truly honors its Christian heritage. The Museum must also decide if it will continue to partner with the IAA, which uses antiquities as a way of <a class="text-blue-600 underline hover:text-blue-800 hover:no-underline" href="https://www.theguardian.com/world/2026/feb/02/palestinian-uproar-israel-plan-seize-historic-site-sebastia-west-bank">seizing land</a> from Palestinians, including Palestinian Christians.
     </p>
     <br />
     <p>
-      By partnering with the IAA, the Museum of the Bible appears to condone its methods, which use archaeology as a quest for material evidence of ancient Israel while simultaneously erasing and marginalizing evidence of established Christian and Muslim presence. The IAA accomplishes this by sometimes using bulldozers to erase some strata in order to get to what might have national significance for the present government. The use of archaeology as a means of dispossession and erasure of a people violates international law.
+      By partnering with the IAA, the Museum of the Bible appears to condone its methods, which use archaeology as a quest for material evidence of ancient Israel while simultaneously <a class="text-blue-600 underline hover:text-blue-800 hover:no-underline" href="https://en.jerusalem-patriarchate.info/articles-speeches/jerusalem-patriarchate-silwan-land-grab-violates-church-rights-and-jerusalems-historic-christian-presence/">erasing and marginalizing</a> evidence of established Christian and Muslim presence. The IAA accomplishes this by sometimes using bulldozers to erase some strata in order to get to what might have national significance for the present government. The use of archaeology as <a class="text-blue-600 underline hover:text-blue-800 hover:no-underline" href="https://www.thedriftmag.com/in-ruins/">a means of dispossession</a> and erasure of a people violates international law.
     </p>
     <br />
     <p>

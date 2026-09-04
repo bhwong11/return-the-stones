@@ -15,7 +15,7 @@
         </li>
       </ul>
     </nav>
-    <main>
+    <main class="w-full flex justify-center flex-col">
       <RouterView />
     </main>
   </div>
