@@ -1,10 +1,10 @@
-import Home from '@/components/Home.vue'
+import OpenLetter from '@/components/OpenLetter.vue'
 import SignOn from '@/components/SignOn.vue'
 import Page404 from '@/components/Page404.vue'
 import { createWebHistory, createRouter } from 'vue-router'
 
 const routes = [
-  { path: '/', component: Home },
+  { path: '/', component: OpenLetter },
   { path: '/sign-on/', component: SignOn },
   { path: '/:pathMatch(.*)', component: Page404 },
 ]
