@@ -63,7 +63,7 @@
     <br />
     <p>We therefore call upon the Museum of the Bible to:</p>
     <br />
-    <ul>
+    <ul class="list-disc">
       <li>End its institutional partnership with the Israel Antiquities Authority.</li>
       <li>Cease sponsoring, supporting, or participating in archaeological excavations and projects conducted in partnership with the Israel Antiquities Authority.</li>
       <li>End the exhibition of archaeological artifacts and long-term loans from the Israel Antiquities Authority.</li>
