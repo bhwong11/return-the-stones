@@ -37,17 +37,26 @@ const currentPath = computed(() => route.path);
   justify-content: center;
   align-items: center;
 }
+
 .nav-bar {
   display: flex;
+  flex-direction: column;
   width: 100%;
-  justify-content: space-between;
   padding: 1rem;
+  align-items: center;
   .nav-buttons {
     display: flex;
     gap: 0.5rem;
     list-style-type: none;
     margin: 0;
     padding: 0;
+  }
+}
+
+@media (min-width: 23.438rem) {
+  .nav-bar {
+    flex-direction: row;
+    justify-content: space-between;
   }
 }
 </style>

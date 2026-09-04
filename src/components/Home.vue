@@ -1,5 +1,5 @@
 <template>
-    <article class="main-article">
+    <article class="main-article text-center min-[375px]:text-left">
     <header class="header italic-text">
       <h2>
         HERITAGE WITHOUT ERASURE
