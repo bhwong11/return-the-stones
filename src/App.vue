@@ -56,7 +56,7 @@ const currentPath = computed(() => route.path);
 @media (min-width: 23.438rem) {
   .nav-bar {
     flex-direction: row;
-    justify-content: space-between;
+    justify-content: end;
   }
 }
 </style>
