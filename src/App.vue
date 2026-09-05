@@ -1,7 +1,7 @@
 <template>
   <div class="main-page">
     <nav class="nav-bar">
-      <img src="./assets/logo.png" alt="Heritage Without Erasure" width="150"/>
+      <!-- <img src="./assets/logo.png" alt="Heritage Without Erasure" width="150"/> -->
       <ul class="nav-buttons">
         <li>
           <RouterLink to="/" v-if="currentPath !== '/'">
