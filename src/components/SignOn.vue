@@ -1,12 +1,14 @@
 <template>
   <div class="flex flex-col">
     <h1 class="text-4xl font-bold tracking-tight pt-[2rem] text-center">Want to support? Sign on here!</h1>
-    <a
-      class="text-blue-600 hover:underline font-medium pt-[2rem] text-2xl text-center"
-      href="https://docs.google.com/forms/d/e/1FAIpQLSe34h1Wm-8ntkyng5zn5h6tGqa1ol3xqMBL-GtKqv4Ypv3PSg/viewform"
-    >
-      Sign On Here
-    </a>
+    <div class="flex justify-center">
+      <a
+        class="text-blue-600 hover:underline font-medium pt-[2rem] text-2xl text-center"
+        href="https://docs.google.com/forms/d/e/1FAIpQLSe34h1Wm-8ntkyng5zn5h6tGqa1ol3xqMBL-GtKqv4Ypv3PSg/viewform"
+      >
+        Sign On Here
+      </a>
+    </div>
     <h3 class="pt-[2rem] font-bold text-xl flex justify-center">Signers</h3>
     <div class="sign-on-wrapper flex flex-wrap justify-center px-[2rem] items-center">
       <div v-for="signOn in signOns" class="sign-on">
