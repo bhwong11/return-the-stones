@@ -18,7 +18,7 @@
           justify-center
         "
         >
-          <img :src="signOn.logo" :alt="signOn.organizationName" class="sign-on-logo">
+          <img :src="getImageUrl(signOn.logo)" :alt="signOn.organizationName" class="sign-on-logo">
         </div>
         <p class="text-center">{{ signOn.organizationName }}</p>
       </div>
@@ -28,6 +28,9 @@
 
 <script setup lang="ts">
 import { signOns } from "@/utils/consts"
+const getImageUrl = (name: string) => {
+  return new URL(`../assets/sign-on-logos/${name}`, import.meta.url).href
+}
 </script>
 <style scoped>
 .sign-on {
