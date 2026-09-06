@@ -70,7 +70,7 @@ export const signOns = [
   },
   {
     organizationName: 'Mennonite Action',
-    logo:`MA-logo.png`,
+    logo:`MA-logo.jpg`,
   },
   {
     organizationName: 'The Open Door Community',

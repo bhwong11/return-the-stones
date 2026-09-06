@@ -8,15 +8,17 @@
       Sign On Here
     </a>
     <h3 class="pt-[2rem] font-bold text-xl flex justify-center">Signers</h3>
-    <div class="sign-on-wrapper flex flex-wrap justify-center px-[2rem]">
+    <div class="sign-on-wrapper flex flex-wrap justify-center px-[2rem] items-center">
       <div v-for="signOn in signOns" class="sign-on">
-        <div class=
-        "
-          sign-on-logo-wrapper
-          flex
-          flex-col
-          justify-center
-        "
+        <div 
+        v-if="signOn.logo" 
+          class=
+          "
+            sign-on-logo-wrapper
+            flex
+            flex-col
+            justify-center
+          "
         >
           <img :src="getImageUrl(signOn.logo)" :alt="signOn.organizationName" class="sign-on-logo">
         </div>
@@ -34,9 +36,12 @@ const getImageUrl = (name: string) => {
 </script>
 <style scoped>
 .sign-on {
-  width: 250px;
+  width: 15.625rem;
+}
+.sign-on-wrapper {
+  min-height: 18.75rem;
 }
 .sign-on-logo-wrapper {
-  height: 300px;
+  height: 18.75rem;
 }
 </style>
