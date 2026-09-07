@@ -10,7 +10,7 @@
       </a>
     </div>
     <h3 class="pt-[2rem] font-bold text-xl flex justify-center">Signers</h3>
-    <div class="sign-on-wrapper flex flex-wrap justify-center px-[2rem] items-center">
+    <div class="sign-on-wrapper flex flex-wrap justify-center px-[2rem] pb-[3rem] items-center">
       <div v-for="signOn in signOns" class="sign-on">
         <div 
         v-if="signOn.logo" 
