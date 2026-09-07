@@ -9,7 +9,11 @@
         Sign On Here
       </a>
     </div>
-    <h3 class="pt-[2rem] font-bold text-xl flex justify-center">Signers</h3>
+    <div class="orginal-signor flex flex-col items-center pt-[2rem]">
+      <h3 class="font-bold text-xl flex justify-center">Original Authors and Signatories</h3>
+      <p class="pt-[1rem]">Badre Rachidi, Mary hershberger, Bryant Wong</p>
+    </div>
+    <h3 class="pt-[2rem] font-bold text-xl flex justify-center">ENDORSING ORGANIZATIONS</h3>
     <div class="sign-on-wrapper flex flex-wrap justify-center px-[2rem] pb-[3rem] items-center">
       <div v-for="signOn in signOns" class="sign-on">
         <div 

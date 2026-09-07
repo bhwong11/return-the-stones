@@ -14,7 +14,7 @@
     </h2>
     <br />
     <p>
-      To the leadership of the Museum of the Bible and to churches, faith communities, museums, universities, governments, cultural institutions, and people of conscience: <b>We write this open letter as a call for moral accountability and as the beginning of a campaign to defend the integrity of Christian heritage in the Holy Land.</b>
+      To the leadership of the Museum of the Bible and to churches, faith communities, museums, universities, governments, cultural institutions, and people of conscience: <b>We write this open letter as a call for moral accountability and as the beginning of a campaign to defend the integrity of the shared historical, cultural, and spiritual heritage of the Holy Land.</b>
     </p>
     <br />
     <p>
