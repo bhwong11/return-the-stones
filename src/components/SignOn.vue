@@ -24,7 +24,7 @@
         >
           <img :src="getImageUrl(signOn.logo)" :alt="signOn.organizationName" class="sign-on-logo">
         </div>
-        <p class="text-center">{{ signOn.organizationName }}</p>
+        <p class="text-center font-bold">{{ signOn.organizationName }}</p>
       </div>
     </div>
   </div>

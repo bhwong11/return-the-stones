@@ -10,7 +10,7 @@ export const signOns = [
   },
     {
     organizationName: 'FOSNA',
-    logo:``,
+    logo:`FOSNA.webp`,
   },
   {
     organizationName: 'Pax Christi International',
