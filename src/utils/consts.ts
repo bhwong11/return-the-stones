@@ -1,4 +1,3 @@
-const signOnPath = '/src/assets/sign-on-logos/'
 export const signOns = [
   {
     organizationName: 'Christians for a Free Palestine, Catholic Caucus',
@@ -9,12 +8,13 @@ export const signOns = [
     logo:`pcap-logo-horizontal.jpeg`,
   },
     {
-    organizationName: 'FOSNA',
+    organizationName: 'Friends of Sabeel North America (FOSNA)',
     logo:`FOSNA.webp`,
   },
   {
     organizationName: 'Pax Christi International',
     logo:`PCI-LOGO-rvb.png`,
+    width: `25rem`
   },
   {
     organizationName: 'Pax Christi USA',
@@ -29,11 +29,7 @@ export const signOns = [
     logo:`J4P-Justice-4-Palestine.png`,
   },
   {
-    organizationName: 'codepink',
-    logo:``,
-  },
-  {
-    organizationName: 'Dominican sister Grand Rapids',
+    organizationName: 'CODEPINK',
     logo:``,
   },
   {
@@ -41,7 +37,7 @@ export const signOns = [
     logo:`montgomery-peace-action.png`,
   },
   {
-    organizationName: 'episcopal peace fellowship Palestine Justice Network',
+    organizationName: 'Episcopal Peace Fellowship Palestine Justice Network',
     logo:`EPF-PJN-Logo.jpg`,
   },
   {
@@ -63,10 +59,7 @@ export const signOns = [
   {
     organizationName: 'Palestinian Youth Movement',
     logo:`PYM.jpg`,
-  },
-  {
-    organizationName: 'member - Seekers Church',
-    logo:``,
+    width: `25rem`
   },
   {
     organizationName: 'Mennonite Action',
@@ -92,4 +85,16 @@ export const signOns = [
     organizationName: 'Maryland United for Peace & Justice',
     logo:``,
   },
-]
+  {
+    organizationName: 'Hyattsville Mennonite Church',
+    logo:``,
+  },
+  {
+    organizationName: 'Arlington for Palestine',
+    logo:`arlingtonForPalestine.png`,
+  },
+  {
+    organizationName: 'Project 21:12',
+    logo:`P2112-Logo.png`,
+  },
+];

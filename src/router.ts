@@ -1,11 +1,13 @@
 import OpenLetter from '@/components/OpenLetter.vue'
-import SignOn from '@/components/SignOn.vue'
+import Signor from '@/components/Signors.vue'
 import Page404 from '@/components/Page404.vue'
+import Home from '@/components/Home.vue'
 import { createWebHistory, createRouter } from 'vue-router'
 
 const routes = [
-  { path: '/', component: OpenLetter },
-  { path: '/sign-on/', component: SignOn },
+  { path: '/', component: Home },
+  { path: '/open-letter', component: OpenLetter },
+  { path: '/endorsing-organizations/', component: Signor },
   { path: '/:pathMatch(.*)', component: Page404 },
 ]
 
