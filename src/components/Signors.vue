@@ -30,7 +30,7 @@
       </div>
     </div>
     <div class="sign-on">
-      <p class="text-2xl font-bold tracking-tight pt-[5rem] text-center">What to Support? Sign on here</p>
+      <p class="text-2xl font-bold tracking-tight pt-[5rem] text-center">Want to Support? Sign on here</p>
       <div class="flex justify-center">
         <a
           class="bg-black hover:bg-gray-800 text-white text-xl font-small py-2.5 px-5 rounded-full transition-colors duration-200 mt-[2rem]"
