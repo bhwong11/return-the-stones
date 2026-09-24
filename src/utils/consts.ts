@@ -97,4 +97,8 @@ export const signOns = [
     organizationName: 'Project 21:12',
     logo:`P2112-Logo.png`,
   },
+  {
+    organizationName: 'Red Candle: Light for Palestine',
+    logo:`RedCandle-Logo.png`,
+  },
 ];
