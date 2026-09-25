@@ -21,7 +21,7 @@
           "
         >
           <img 
-            :src="getImageUrl(signOn.logo)"
+            :src="getImageUrl('../assets/sign-on-logos', signOn.logo)"
             :alt="signOn.organizationName"
             class="signors-logo w-[12.4rem]"
             :style="{ 'width': `${signOn.width}` }"
@@ -46,9 +46,7 @@
 <script setup lang="ts">
 import { signOns } from '@/utils/consts';
 import { computed } from 'vue';
-const getImageUrl = (name: string) => {
-  return new URL(`../assets/sign-on-logos/${name}`, import.meta.url).href
-}
+import { getImageUrl } from '@/utils/helpers';
 const signOnsSorted = computed(() => signOns.sort((a,b) => a?.organizationName.localeCompare(b?.organizationName)));
 const signOnWithLogos = computed(() => signOnsSorted.value.filter(signOn => signOn.logo))
 </script>

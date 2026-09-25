@@ -1,7 +1,6 @@
 <template>
   <div class="main-page">
     <nav class="nav-bar text-[#0F172A] bg-[#ACBDA1] font-sans-serif text-center">
-      <!-- <img src="./assets/logo.png" alt="Heritage Without Erasure" width="150"/> -->
       <p class="font-bold">HERITAGE WITHOUT ERASURE</p>
       <ul class="nav-buttons items-center">
         <li v-for="navLink in navLinks">
@@ -13,7 +12,7 @@
         </li>
       </ul>
     </nav>
-    <main class="w-full flex justify-center flex-col">
+    <main class="w-full mh-dvh flex justify-center flex-col bg-[#F8FAFC]">
       <RouterView />
     </main>
   </div>
@@ -55,6 +54,10 @@ const navLinks = computed<NavLink[]>(() => [
   {
     linkText: 'Endorsing Organizations',
     linkPath: '/endorsing-organizations'
+  },
+  {
+    linkText: 'Actions',
+    linkPath: '/actions'
   }
 ].sort(
     (a,b) => Number(a?.isPrimaryButton || 0) - Number(b?.isPrimaryButton || 0)
