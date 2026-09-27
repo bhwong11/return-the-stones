@@ -22,7 +22,7 @@
 
 <script setup lang="ts">
 const getImageUrl = (name: string) => {
-  return new URL(`../assets/actions/${name}`, import.meta.url).href
+  return new URL(`@/assets/actions/${name}`, import.meta.url).href
 }
 type ActionDetails = {
   titleHeader: string,
