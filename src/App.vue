@@ -58,7 +58,11 @@ const navLinks = computed<NavLink[]>(() => [
   {
     linkText: 'Actions',
     linkPath: '/actions'
-  }
+  },
+  {
+    linkText: 'Press Releases',
+    linkPath: '/press-releases'
+  },
 ].sort(
     (a,b) => Number(a?.isPrimaryButton || 0) - Number(b?.isPrimaryButton || 0)
   )

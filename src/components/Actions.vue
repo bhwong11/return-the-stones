@@ -12,7 +12,7 @@
           <div class="pb-[0.25rem]" v-if="actionDetail.subHeader">
             <span class="font-bold">Location:</span> <span>{{ actionDetail.location }}</span>
           </div>
-          <img v-if="actionDetail.imageUrl" class="action-image pt-[1rem]" :src="getImageUrl('../assets/actions', actionDetail.imageUrl)" :alt="actionDetail.titleHeader"/>
+          <img v-if="actionDetail.imageUrl" class="action-image pt-[1rem]" :src="getImageUrl(actionDetail.imageUrl)" :alt="actionDetail.titleHeader"/>
         </div>
         <div class="border-1 mt-[2rem] mb-[3rem]"></div>
       </section>
@@ -22,7 +22,7 @@
 
 <script setup lang="ts">
 const getImageUrl = (name: string) => {
-  return new URL(`@/assets/actions/${name}`, import.meta.url).href
+  return new URL(`../assets/actions/${name}`, import.meta.url).href
 }
 type ActionDetails = {
   titleHeader: string,
