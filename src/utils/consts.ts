@@ -101,4 +101,12 @@ export const signOns = [
     organizationName: 'Red Candle: Light for Palestine',
     logo:`RedCandle-Logo.png`,
   },
+  {
+    organizationName: 'Christians for a Free Palestine, DMV',
+    logo:``,
+  },
+  {
+    organizationName: 'Pax Christi New York State',
+    logo:`PCNYS-Logo.png`,
+  },
 ];
