@@ -1,5 +1,5 @@
 <template>
-  <div class="flex flex-col">
+  <div class="flex flex-col pb-[3rem]">
     <h3 class="pt-[2rem] font-bold text-2xl lg:text-4xl flex justify-center">ENDORSING ORGANIZATIONS</h3>
     <div class="endorsing-organizations grid grid-cols-2 gap-[0.5rem] pt-[5rem]">
       <div class="signor-names flex flex-col items-center ps-[3rem]">
