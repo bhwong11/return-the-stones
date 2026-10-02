@@ -103,10 +103,14 @@ export const signOns = [
   },
   {
     organizationName: 'Christians for a Free Palestine, DMV',
-    logo:``,
+    logo:`CFP-DMV.png`,
   },
   {
     organizationName: 'Pax Christi New York State',
     logo:`PCNYS-Logo.png`,
+  },
+  {
+    organizationName: 'Orthodox Christian for Palestine',
+    logo:`Orthadox-Christians-for-Palestine.png`,
   },
 ];
