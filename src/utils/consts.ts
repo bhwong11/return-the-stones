@@ -113,4 +113,8 @@ export const signOns = [
     organizationName: 'Orthodox Christian for Palestine',
     logo:`Orthadox-Christians-for-Palestine.png`,
   },
+  {
+    organizationName: 'Brevard For Palestine',
+    logo:`Brevard_For_Palestine.png`,
+  },
 ];
