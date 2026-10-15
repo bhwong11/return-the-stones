@@ -117,4 +117,21 @@ export const signOns = [
     organizationName: 'Brevard For Palestine',
     logo:`Brevard_For_Palestine.png`,
   },
+  {
+    organizationName: 'Metro DC DSA',
+    logo:`Metro-DC-DSA.png`,
+  },
+  {
+    organizationName: 'Apartheid-Free at Park Slope United Methodist',
+    logo:``,
+  },
+  {
+    organizationName: 'Palestinian Christians for Justice',
+    logo:`Palestinian-Christians-for-Justice.png`,
+    width: `15rem`,
+  },
+  {
+    organizationName: 'Menno pin',
+    logo:``,
+  },
 ];
