@@ -134,4 +134,8 @@ export const signOns = [
     organizationName: 'Menno pin',
     logo:``,
   },
+  {
+    organizationName: 'Institute for the Study of Christian Zionism',
+    logo:`ISCJ.svg`,
+  },
 ];
