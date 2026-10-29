@@ -4,6 +4,51 @@
       <section class="flex flex-col items-center">
         <div class="border-1 mt-[3rem] mb-[1rem] w-full"></div>
         <div class="release-info max-w-[65rem]">
+          <h2 class="text-2xl font-bold py-[1rem]">The Museum of the Bible Heard Us. Now It Must Act. <a href="/" class="text-blue-600 underline hover:text-blue-800 hover:no-underline font-bold">Heritage Without Erasure</a> / Restore the Megiddo Church October 27, 2026 | Washington, D.C.
+          </h2>
+          <p class="text-lg pb-[0.75rem]">
+            On October 24, we gathered outside the Museum of the Bible to demand an end to its partnership with the Israel Antiquities Authority (IAA), the return of the Megiddo Church mosaic, and an end to the erasure of Palestinian Christian heritage.
+          </p>
+          <p class="text-lg pb-[0.75rem]">
+            Through a public reading of our <a href="https://docs.google.com/document/d/1caokeFezPS_mEd_Pqv0MaTpv2i6qp8BS7wmKoRR04S0/" class="text-blue-600 underline hover:text-blue-800 hover:no-underline">October 3 open letter</a>, speakers exposed how archaeology is used to dispossess Palestinians, erase their history, and privilege a singular national narrative at the expense of the land’s diverse and living communities. We spoke of Silwan, the destruction of Lajjun, the dispossession of Indigenous peoples in the United States, the museum’s relationship with Christian Zionism, and the ongoing destruction of Palestinian life and heritage, including Christian and Muslim heritage.
+          </p>
+          <p class="text-lg pb-[0.75rem]">
+            Museum President Carlos Campo and his team came out to hear our demands and respond. We left without a concrete commitment to address our demands.
+          </p>
+          <p class="text-lg pb-[0.75rem]">
+            The museum has acknowledged its blind spots. But acknowledgment without action changes nothing. The question is whose histories the museum chooses to preserve, whose voices it excludes, and which institutions it legitimizes through its partnerships.
+          </p>
+          <p class="text-lg pb-[0.75rem]">
+            The IAA is complicit in the dispossession of Palestinians and the erasure of their heritage. In Silwan, occupied East Jerusalem, the IAA cooperates with Elad, a settler organization that operates the City of David archaeological site, conducting excavations beneath Palestinian homes while advancing a narrative that privileges one national history and marginalizes Palestinian Christian and Muslim heritage. This is not archaeology detached from politics. It is archaeology embedded in a colonial system of land seizure, settlement, and historical erasure. When museums exhibit artifacts supplied by the IAA without confronting these realities, they help launder the products of dispossession into cultural legitimacy. The Museum of the Bible’s partnership with the IAA makes the museum complicit in legitimizing this system. The museum cannot claim to preserve biblical heritage while lending its institutional authority to practices that erase the people and communities whose history is inseparable from that land.
+          </p>
+          <p class="text-lg pb-[0.75rem]">
+            Palestinian Christian heritage is not a collection of artifacts detached from living communities. It belongs to a people whose churches, history, and continued presence must be recognized and protected. The Megiddo mosaic cannot be separated from the church and its archaeological context. An eventual return is not enough: we demand a clear timetable, a transparent restoration plan, and meaningful participation by Palestinian Christians and heritage specialists.
+          </p>
+          <p class="text-lg pb-[1rem] font-bold">
+            OUR DEMANDS HAVE NOT CHANGED
+          </p>
+          <ul class = "list-disc text-lg pb-[0.75rem]">
+            <li class="pb-[0.5rem]">End the museum’s institutional partnership with the IAA.</li>
+            <li>Stop sponsoring, funding, or participating in archaeological projects conducted in partnership with the IAA.</li>
+            <li>End exhibitions and long-term loans of artifacts supplied by the IAA.</li>
+            <li>Return the Megiddo mosaic and support the restoration of the church and its archaeological context.</li>
+            <li>Publish transparent information about provenance, excavation funding, partnerships, and affected communities.</li>
+            <li>Establish meaningful partnerships with Palestinian Christian churches, scholars, archaeologists, and heritage organizations.</li>
+            <li>Tell the stories of living Palestinian Christian communities, including St. Porphyrius Church in Gaza.</li>
+          </ul>
+          <p class="text-lg pb-[0.75rem]">
+            The museum has heard our demands. Now it must choose whether to continue legitimizing institutions and practices that marginalize Palestinian heritage or take meaningful action to end its complicity in that erasure.
+          </p>
+          <p class="text-lg font-bold pb-[0.75rem]">
+            <a href="/" class="text-blue-600 underline hover:text-blue-800 hover:no-underline font-bold">Heritage without erasure.</a> People without exclusion. Justice without exception.
+          </p>
+        </div>
+      </section>
+    </div>
+    <div class="release-wrapper flex flex-col px-[3rem]">
+      <section class="flex flex-col items-center">
+        <div class="border-1 mt-[3rem] mb-[1rem] w-full"></div>
+        <div class="release-info max-w-[65rem]">
           <p class="text-2xl font-bold pb-[1rem]">
             October 24: Heritage Without Erasure Condemns the Museum of the Bible’s Partnership with the Israel Antiquities Authority and the Erasure of Palestinians, Demands Return of the Megiddo Mosaic and Restoration of the Megiddo Church
           </p>
